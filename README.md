@@ -36,4 +36,7 @@ the Discriminative Network acts as a discerning critic, distinguishing between g
 - **Objective:** Discriminate between different classes or categories, achieving accurate classification.
 - **Applications:** Image classification, object detection, pattern recognition.
 
+### Training:
+- the GAN training reaches an equilibrium where the generator produces realistic data and the discriminator cannot reliably distinguish between real and generated data.
+
 
