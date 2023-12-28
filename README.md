@@ -39,4 +39,4 @@ the Discriminative Network acts as a discerning critic, distinguishing between g
 ### Training:
 - the GAN training reaches an equilibrium where the generator produces realistic data and the discriminator cannot reliably distinguish between real and generated data.
 
-
+[check](https://poloclub.github.io/ganlab/)
