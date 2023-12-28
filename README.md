@@ -22,7 +22,7 @@ The Generative Network endeavors to synthesize data that closely resembles real-
 
 ### Discriminative Network
 
-the Discriminative Network acts as a discerning critic, distinguishing between genuine and generated data. Through this process, it refines its ability to provide feedback to the Generative Network, driving continuous improvement in the generated outputs.
+the Discriminative Network acts as a discerning critic, distinguishing between genuine and generated data. Through this process, it refines its ability to provide feedback to the Generative Network, driving continuous improvement in the generated outputs. In other word, it will classify if the generated data are good or no!
 
 ## Generative Model vs. Discriminative Model
 
